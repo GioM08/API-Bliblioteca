@@ -15,16 +15,22 @@ docker --version
 
 Para construir la imagen Docker debes ejecutar el siguiente comando desde la raíz del proyecto:
 docker build -t api/biblioteca .
+<img width="1476" height="56" alt="image" src="https://github.com/user-attachments/assets/6f73e86e-9a4f-4c8a-85c9-9c889d2a2ef8" />
 
 **Ejecutar el contenedor**
 
 Para ejecutar el contenedor:
 docker run -it -d -p 3000:3000 -e PORT=3000 api/biblioteca
+<img width="1491" height="224" alt="image" src="https://github.com/user-attachments/assets/5039ba3d-7a39-4e0a-afc8-e503fe441b09" />
+
 
 **Variables de entorno usadas**
 
 La aplicación utiliza las siguientes variables de entorno:
 PORT               3000
+
+<img width="1404" height="55" alt="image" src="https://github.com/user-attachments/assets/327c6d5d-ed25-463e-a562-09318ba1f87e" />
+
 
 **Pruebas rápidas con curl**
 
