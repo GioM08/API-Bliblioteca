@@ -29,6 +29,6 @@ PORT               3000
 **Pruebas rápidas con curl**
 
 Ejemplo de requests para probar los endpoints.
-curl http://localhost:3000/authors
+curl http://localhost:3000/author
 curl http://localhost:3000/books
-curl http://localhost:3000/loans
+curl http://localhost:3000/loan
