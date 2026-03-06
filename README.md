@@ -29,6 +29,11 @@ PORT               3000
 **Pruebas rápidas con curl**
 
 Ejemplo de requests para probar los endpoints.
-curl http://localhost:3000/author
-curl http://localhost:3000/books
-curl http://localhost:3000/loan
+<img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/e7321e35-eac3-4b3d-84a5-0e87b61a8b06" />
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/1314cb12-def7-4f0e-bfa3-ac6ba8c1e819" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/352d141b-e7f7-411c-94fb-56562411c6f3" />
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/29be45ea-c8d5-40c8-a4de-2e61597c60d2" />
+
+
+
+
